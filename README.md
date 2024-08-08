@@ -1,11 +1,4 @@
 # TrashDivers
-
-
-## 📖 Table of Contents
-- [About The Project](#-about-the-project)
-  - [Tech Used](#-tech-used)
-- [Contributors](#-contributors)
-
 <br/>
 
 ## ⚙️ About The Project
